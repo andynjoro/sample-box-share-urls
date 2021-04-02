@@ -1,4 +1,4 @@
-# sample-work-examples
+# Sample Work Examples
 Sample Projects showcasing some of my skills
 1. AmazonAutocomplete.php and AmazonSearch.vue demonstrate Laravel and Vue to interact with APIs.
 2. box-share-urls-dev.zip used NodeJS to interact with the API for Box.com
